@@ -1,0 +1,19 @@
+# ARRAY-DAN-CHALLENGE
+# Hasil Satu
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%201%20praktikum%20array.PNG "Hasil Satu")
+# Hasil Dua
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20array%20jumlah%20hari.PNG "Hasil Dua")
+# Hasil Tiga
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20array%20multi%20dimen%201.PNG "Hasil Tiga")
+# Hasil Empat
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20array%20multidimen2.PNG "Hasil Empat")
+# Hasil Lima
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20array%20nilai%20ujian%20siswa.PNG "Hasil Lima")
+# Hasil Enam
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20array%20praktikum%202.1.PNG "Hasil Enam")
+# Hasil Tujuh
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20challenge%20array.PNG "Hasil Tujuh")
+# Hasil Delapan
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20praktikum%201%20array.PNG "Hasil Delapan")
+# Hasil Sembilan
+#![AltText](https://github.com/sabrinaamelia07/ARRAY-DAN-CHALLENGE/blob/master/Capture%20praktikum%202%20array.PNG "Hasil Sembilan")
